@@ -15,7 +15,7 @@
 
 ### Howdy! 👋
 
-I'm Josh, an Application Security Engineer and Cyber Security Enthusiast. I am mostly focused on secure code and architectures for cloud native applications.
+I'm Josh, an Application Security Engineer, Developer and Cyber Security Enthusiast. I am mostly focused on secure code and architectures for cloud native applications.
 
 
 ##### :palm_tree: Personally, I am a 
