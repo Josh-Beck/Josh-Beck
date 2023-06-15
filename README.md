@@ -18,8 +18,7 @@
 I'm Josh, an Application Security Engineer and Cyber Security Enthusiast. I am mostly focused on secure code and architectures for cloud native applications.
 
 
-### :palm_tree:
-Personally, I am a 
+##### :palm_tree: Personally, I am a 
 - Christian ✝️
 - Husband 👫
 - Packers fan :green_square: :yellow_square:
@@ -32,5 +31,5 @@ Personally, I am a
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="React" width="40" height="40"/>&nbsp;
   <img src="/Assets/htb.svg" title="HackTheBox" alt="React" width="40" height="40"/>&nbsp;
   <img src="/Assets/burp.webp" title="Burp Suite" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://owasp.org/assets/images/logo.svg" title="OWASP" alt="React" width="40" height="40"/>&nbsp;
+<!--   <img src="https://owasp.org/assets/images/logo.svg" title="OWASP" alt="React" width="40" height="40"/>&nbsp; -->
 </div>
