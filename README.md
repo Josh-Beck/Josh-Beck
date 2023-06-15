@@ -18,7 +18,7 @@
 I'm Josh, an Application Security Engineer, Developer and Cyber Security Enthusiast. I am mostly focused on secure code and architectures for cloud native applications.
 
 
-##### :palm_tree: Personally, I am a 
+##### :palm_tree: Get to know me better! I am a...
 - Christian ✝️
 - Husband 👫
 - Packers fan :green_square: :yellow_square:
