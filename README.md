@@ -27,7 +27,8 @@ Personally, I am a
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="React" width="40" height="40"/>&nbsp;
+  <img src="/Assets/htb.svg" title="HackTheBox" alt="React" width="40" height="40"/>&nbsp;
 </div>
