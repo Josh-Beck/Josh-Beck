@@ -33,3 +33,11 @@ I'm Josh, an Application Security Engineer, Developer and Cyber Security Enthusi
   <img src="/Assets/burp.webp" title="Burp Suite" alt="React" width="40" height="40"/>&nbsp;
 <!--   <img src="https://owasp.org/assets/images/logo.svg" title="OWASP" alt="React" width="40" height="40"/>&nbsp; -->
 </div>
+
+---
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Josh-Beck&theme=holi-theme&border_radius=5&mode=weekly" height="165" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Beck&layout=compact&theme=holi" />&nbsp;
+</div>
+
