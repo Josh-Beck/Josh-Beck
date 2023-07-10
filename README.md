@@ -33,6 +33,8 @@ I'm Josh, an Application Security Engineer, Developer and Cyber Security Enthusi
   <img src="/Assets/htb.svg" title="HackTheBox" width="40" height="40"/>&nbsp;
   <img src="/Assets/burp.webp" title="Burp Suite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/juice-shop/juice-shop/blob/master/frontend/src/assets/public/images/JuiceShop_Logo.svg" title="Juice Shop" alt="Juice Shop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/OWASP/owasp-swag/blob/master/owasp/logos/owasp_logo_flat2_icon.png" title="OWASP" alt="OWASP" width="40" height="40"/>&nbsp;
+  
   
 <!--   <img src="https://owasp.org/assets/images/logo.svg" title="OWASP" alt="React" width="40" height="40"/>&nbsp; -->
 </div>
